@@ -1,0 +1,63 @@
+Onion rings
+Appetizer
+23
+
+Nachos
+Appetizer
+19
+
+Grilled sausage
+Appetizer
+24
+
+French fries
+Appetizer
+17
+
+Sloppy joe
+Main course
+59
+
+Marinated chicken
+Main course
+55
+
+Lamb kebab
+Main course
+55
+
+Roast beef
+Main course
+57
+
+Coca cola
+Drink
+9
+
+Orange juice
+Drink
+9
+
+Pepsi cola
+Drink
+8
+
+Lemonade
+Drink
+7
+
+Chocolate cake
+Dessert
+22
+
+Ice cream
+Dessert
+19
+
+Pecan pie
+Dessert
+25
+
+Apple pie
+Dessert
+23
